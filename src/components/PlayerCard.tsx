@@ -1,12 +1,5 @@
+import { Playback } from "../types/types";
 import { PlayIcon } from "./Icons";
-
-export type Playback = {
-  title: string;
-  podcastName: string;
-  cover: string;
-  currentMinute: number;
-  duration: number;
-};
 
 interface Props {
   playback: Playback;
