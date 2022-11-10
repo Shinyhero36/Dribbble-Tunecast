@@ -11,7 +11,6 @@
 ## TODO
 
 - [ ] Change volume slider color with tailwind utilities only
-- [ ] Implement the second shot
 - [ ] Tweak the responsiveness
 
 ## About
